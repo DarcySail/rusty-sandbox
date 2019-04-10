@@ -1,6 +1,6 @@
 [package]
 name = "rusty-sandbox"
-version = "0.0.0"
+version = "0.2.0"
 authors = [ "Greg V <greg@unrelenting.technology>" ]
 keywords = [ "Security", "Sandbox", "Capsicum", "Pledge" ]
 description = "rusty-sandbox"
